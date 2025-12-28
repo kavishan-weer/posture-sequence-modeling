@@ -71,6 +71,8 @@ Despite the Transformer's robustness, it is **~6x slower** than the CNN. In a we
 
 For posture detection, spatial relationships (captured by CNN filters) are often more invariant than temporal order (captured by LSTMs). The LSTM's performance match with the CNN at $\sigma=3.0$ suggests that for short 2-second windows, the recursive memory doesn't provide a significant advantage over local spatial patterns.
 
+Read More ----> Analyzing Inductive Biases in Sequence Modeling for Wearable Posture Intelligence.pdf
+
 ## 🚀 5. Scaling Hypothesis (Future Work)
 
 To achieve "Frontier" levels of intelligence, the next step is **Self-Supervised Masked Pre-training**. By training a Transformer to reconstruct masked sensor sequences (predicting missing IMU data), we can build a model that understands the "physics of the human body" before it ever sees a label.
