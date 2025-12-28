@@ -134,11 +134,8 @@ See `requirements.txt` for the complete list of dependencies. Key libraries incl
 - NumPy & Pandas (Data Manipulation)
 - Matplotlib & Seaborn (Visualization)
 
-## 📄 License
-
-[Add your license here]
 
 ## 👤 Author
 
-[Add your name/contact information here]
+Kavishan Weerasinghe
 
