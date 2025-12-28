@@ -2,7 +2,7 @@ import torch
 import numpy as np
 from train_cnn import CNNBaseline
 from train_lstm import LSTMBaseline
-from train_transformer import TransformerBaseline # Use the correct class name
+from train_transformer import TransformerBaseline 
 
 # 1. Load Data
 X_test = torch.tensor(np.load('data/processed/X.npy'), dtype=torch.float32)
