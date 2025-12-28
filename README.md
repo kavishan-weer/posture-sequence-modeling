@@ -41,7 +41,7 @@ The dataset consists of **15-channel time-series data** from 5 MPU6050 sensors (
 
 I implemented and compared three fundamentally different ways of "understanding" motion:
 
-1. **1D-CNN (Local Feature Extractor)**: Focuses on local spatial patterns between sensors.
+1. **CNN (Local Feature Extractor)**: Focuses on local spatial patterns between sensors.
 2. **LSTM (Sequential Memory)**: Uses recursive gates to maintain a hidden state over the 2.2s window.
 3. **Tiny Transformer (Global Attention)**: Uses Self-Attention and Positional Encoding to weight the importance of every timestep in relation to every other timestep.
 
