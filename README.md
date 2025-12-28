@@ -73,7 +73,7 @@ For posture detection, spatial relationships (captured by CNN filters) are often
 
 ## 🚀 5. Scaling Hypothesis (Future Work)
 
-To achieve "Frontier" levels of intelligence, the next step is **Self-Supervised Masked Pre-training**. By training a Transformer to reconstruct masked sensor sequences (predicting missing IMU data), we can build a model that understands the "physics of the human body" before it ever sees a label. This approach mimics the pre-training logic of GPT-4 and represents the future of specialized wearable intelligence.
+To achieve "Frontier" levels of intelligence, the next step is **Self-Supervised Masked Pre-training**. By training a Transformer to reconstruct masked sensor sequences (predicting missing IMU data), we can build a model that understands the "physics of the human body" before it ever sees a label.
 
 ## 🛠️ Reproduction
 
