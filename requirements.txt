@@ -1,0 +1,19 @@
+# Data Manipulation
+numpy
+pandas
+
+# Machine Learning & Preprocessing
+scikit-learn
+joblib
+
+# Deep Learning 
+torch
+torchvision
+torchaudio
+
+# Visualization & Analysis
+matplotlib
+seaborn
+
+# Experiment Tracking 
+tqdm
